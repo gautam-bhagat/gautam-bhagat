@@ -11,9 +11,9 @@
 
 ### Reach to me :
 
-<a  href="https://www.linkedin.com/in/mrgautambhagat/" target="_blank"><img src="linkedin50.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a  href="https://www.instagram.com/gautam.bhagat_/" target="_blank"><img src="linkedin50.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a  href="mailto:gautambhagat.business@gmail.com" target="_blank"><img src="linkedin50.png"/></a>
+<a  href="https://www.linkedin.com/in/mrgautambhagat/" target="_blank"><img src="linkedin-logo-50.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a  href="https://www.instagram.com/gautam.bhagat_/" target="_blank"><img src="instagram-logo-50.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a  href="mailto:gautambhagat.business@gmail.com" target="_blank"><img src="gmail-logo-50.png"/></a>
 <!--
 **mrgautambhagat/mrgautambhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
