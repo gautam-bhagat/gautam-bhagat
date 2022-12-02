@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Gautam !! :wave:
 <ul>
-<li>🎓 I'm currently pursuing <b>Bachelors</b></li>
+<li>🎓 I'm currently pursuing <b>BTech CSE (AI&ML)</b> from PCCoE.</li>
 <li>&nbsp;:round_pushpin: &nbsp;Born & Brought Up in <b><i>Navi Mumbai</i></b> .</li>
 <li>:open_book: Presently, I'm focusing more in the field of Data Science</li>
 <li>:handshake: I'm open for collaborations in Data Science,AI &amp; ML, Web Development, and Android</li>
